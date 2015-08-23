@@ -7,3 +7,5 @@ var sum = x + y;
 var message = 'The sum is ' + sum;
 
 alert (message);
+
+var test = 5;
